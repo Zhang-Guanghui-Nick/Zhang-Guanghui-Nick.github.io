@@ -66,8 +66,8 @@ tt {
 }
 
 pre, tt {
-	font-size: 90%;
-	font-family: monaco, monospace;
+	font-size: 120%;
+	font-family:  Helvetica;
 }
 
 a, a > tt {
@@ -148,7 +148,7 @@ h1 {
 
 h2 {
 	padding-top: 0.8em;
-	font-size: 125%;
+	font-size: 135%;
 }
 
 h2 + h3 {
