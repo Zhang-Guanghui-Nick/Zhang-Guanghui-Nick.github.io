@@ -380,4 +380,5 @@ img {
 table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
+	font-size: 110%;
 }
