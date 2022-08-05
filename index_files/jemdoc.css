@@ -104,6 +104,10 @@ div.menu-item {
 	text-indent: -16px;
 }
 
+div.title {
+	font-size: 23px;
+}
+
 div#toptitle {
 	padding-bottom: 0.2em;
 	margin-bottom: 1.5em;
