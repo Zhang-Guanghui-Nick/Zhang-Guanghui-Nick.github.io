@@ -167,6 +167,14 @@ p {
 	line-height: 1.8;
 }
 
+p {
+	margin-top: 0.8em;
+	margin-bottom: 0.8em;
+	padding: 0;
+	line-height: 1.8;
+	font-size: 18px;
+}
+
 
 pre {
 	padding: 0;
