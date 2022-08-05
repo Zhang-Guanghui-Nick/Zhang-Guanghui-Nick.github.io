@@ -168,6 +168,7 @@ p {
 	font-size: 20px;
 }
 
+
 pre {
 	padding: 0;
 	margin: 0;
@@ -359,8 +360,8 @@ table {
 
 td {
     padding: 2px;
-    padding-left: 0.5em;
-    padding-right: 0.5em;
+    padding-left: 1.0em;
+    padding-right: 3.0em;
     text-align: center;
     border: 1px solid gray;
 }
