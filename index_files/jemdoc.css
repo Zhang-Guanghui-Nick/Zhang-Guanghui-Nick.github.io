@@ -109,7 +109,7 @@ div.title {
 }
 
 div.details {
-	font-size: 14pt;
+	font-size: 20px;
 }
 
 div#toptitle {
@@ -152,11 +152,6 @@ h1, h2, h3 {
 
 h1 {
 	font-size: 24pt;
-}
-
-h2 {
-	
-	font-size: 20px;
 }
 
 h2 + h3 {
